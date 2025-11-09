@@ -2,7 +2,12 @@ const CUSTOMER_SITES = {
     qiqi: {
         api: 'https://www.qiqidys.com/api.php/provide/vod',
         name: '七七资源',
-    }
+    },
+    lziapi: {
+        api: 'https://cj.lziapi.com/api.php/provide/vod/',
+        name: 'lzi',
+    },
+    
 };
 
 // 调用全局方法合并
