@@ -6,7 +6,7 @@ const CUSTOMER_SITES = {
     lziapi: {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
         name: 'lzi',
-    },
+    }
     
 };
 
